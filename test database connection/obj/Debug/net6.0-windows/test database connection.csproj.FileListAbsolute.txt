@@ -1,0 +1,24 @@
+C:\Users\s0540769\source\repos\test database connection\bin\Debug\net6.0-windows\test database connection.exe
+C:\Users\s0540769\source\repos\test database connection\bin\Debug\net6.0-windows\test database connection.deps.json
+C:\Users\s0540769\source\repos\test database connection\bin\Debug\net6.0-windows\test database connection.runtimeconfig.json
+C:\Users\s0540769\source\repos\test database connection\bin\Debug\net6.0-windows\test database connection.dll
+C:\Users\s0540769\source\repos\test database connection\bin\Debug\net6.0-windows\test database connection.pdb
+C:\Users\s0540769\source\repos\test database connection\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\s0540769\source\repos\test database connection\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\s0540769\source\repos\test database connection\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\s0540769\source\repos\test database connection\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\s0540769\source\repos\test database connection\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\s0540769\source\repos\test database connection\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\s0540769\source\repos\test database connection\obj\Debug\net6.0-windows\test database connection.csproj.AssemblyReference.cache
+C:\Users\s0540769\source\repos\test database connection\obj\Debug\net6.0-windows\test_database_connection.Form1.resources
+C:\Users\s0540769\source\repos\test database connection\obj\Debug\net6.0-windows\test database connection.csproj.GenerateResource.cache
+C:\Users\s0540769\source\repos\test database connection\obj\Debug\net6.0-windows\test database connection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s0540769\source\repos\test database connection\obj\Debug\net6.0-windows\test database connection.AssemblyInfoInputs.cache
+C:\Users\s0540769\source\repos\test database connection\obj\Debug\net6.0-windows\test database connection.AssemblyInfo.cs
+C:\Users\s0540769\source\repos\test database connection\obj\Debug\net6.0-windows\test database connection.csproj.CoreCompileInputs.cache
+C:\Users\s0540769\source\repos\test database connection\obj\Debug\net6.0-windows\test database connection.csproj.CopyComplete
+C:\Users\s0540769\source\repos\test database connection\obj\Debug\net6.0-windows\test database connection.dll
+C:\Users\s0540769\source\repos\test database connection\obj\Debug\net6.0-windows\refint\test database connection.dll
+C:\Users\s0540769\source\repos\test database connection\obj\Debug\net6.0-windows\test database connection.pdb
+C:\Users\s0540769\source\repos\test database connection\obj\Debug\net6.0-windows\test database connection.genruntimeconfig.cache
+C:\Users\s0540769\source\repos\test database connection\obj\Debug\net6.0-windows\ref\test database connection.dll
