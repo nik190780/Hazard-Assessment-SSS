@@ -1,0 +1,10 @@
+C:\Users\student\source\repos\TestDatabaseConnection\bin\Debug\TestDatabaseConnection.exe.config
+C:\Users\student\source\repos\TestDatabaseConnection\bin\Debug\TestDatabaseConnection.exe
+C:\Users\student\source\repos\TestDatabaseConnection\bin\Debug\TestDatabaseConnection.pdb
+C:\Users\student\source\repos\TestDatabaseConnection\obj\Debug\TestDatabaseConnection.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\TestDatabaseConnection\obj\Debug\TestDatabaseConnection.Form1.resources
+C:\Users\student\source\repos\TestDatabaseConnection\obj\Debug\TestDatabaseConnection.Properties.Resources.resources
+C:\Users\student\source\repos\TestDatabaseConnection\obj\Debug\TestDatabaseConnection.csproj.GenerateResource.cache
+C:\Users\student\source\repos\TestDatabaseConnection\obj\Debug\TestDatabaseConnection.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\TestDatabaseConnection\obj\Debug\TestDatabaseConnection.exe
+C:\Users\student\source\repos\TestDatabaseConnection\obj\Debug\TestDatabaseConnection.pdb
