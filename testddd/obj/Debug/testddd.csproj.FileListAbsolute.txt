@@ -1,0 +1,10 @@
+C:\Users\auron\source\repos\testddd\bin\Debug\testddd.exe.config
+C:\Users\auron\source\repos\testddd\bin\Debug\testddd.exe
+C:\Users\auron\source\repos\testddd\bin\Debug\testddd.pdb
+C:\Users\auron\source\repos\testddd\obj\Debug\testddd.csproj.AssemblyReference.cache
+C:\Users\auron\source\repos\testddd\obj\Debug\testddd.Form1.resources
+C:\Users\auron\source\repos\testddd\obj\Debug\testddd.Properties.Resources.resources
+C:\Users\auron\source\repos\testddd\obj\Debug\testddd.csproj.GenerateResource.cache
+C:\Users\auron\source\repos\testddd\obj\Debug\testddd.csproj.CoreCompileInputs.cache
+C:\Users\auron\source\repos\testddd\obj\Debug\testddd.exe
+C:\Users\auron\source\repos\testddd\obj\Debug\testddd.pdb
