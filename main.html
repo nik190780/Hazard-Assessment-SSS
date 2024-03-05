@@ -1,0 +1,24 @@
+        //Change text in {curly braces} to match actual component names
+        //Grab name and email from new created form
+        /*
+        string legalName = {txtName}.Text;
+        string emailAddress = {txtemail}.Text;
+        */
+        // Get selection of which department user belongs to 
+        //string selectedDep = {DepartmentBox}.SelectedText;
+
+        //Select hazard and control type (physical, chemical etc.)
+        //string selectedHaz = {HazardBox}.SelectedText;
+        //string selectedCon  = {ControlBox}.SelectedText;
+
+        /*
+         Documentation Note: 
+        To keep our code from getting unnecessarily big, for accessing multiple tables, we can 
+        have table name be a variable and retrieve all data (select * from [tableName]).
+        DO THIS CAREFULLY AND COMPLETELY, will require loops, which can easily cause Bad ThingsTM
+         */
+        //Issue: We can adjust table name, but adjust columns will get messy fast
+        //This goes double if the table has a different column amount than other tables
+        //Do we just have to suck it up and make multiple different insert queries for each table?
+        //Display and retrieval can be looped (probably)
+        //string query = "INSERT INTO [tableName] ([ColumnName, ColumnName, ColumnName]) VALUES(@value,@value2,@value3)";
